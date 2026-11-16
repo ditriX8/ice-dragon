@@ -1,0 +1,12 @@
+{
+  "name": "Ice Dragon",
+  "short_name": "Ice Dragon",
+  "description": "The cold everyone's talking about. Sold only from Ice Dragon cryo-fridges.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040506",
+  "theme_color": "#040506",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
